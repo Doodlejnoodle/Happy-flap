@@ -1,2 +1,2 @@
 # Flappybird
-flappy bird on Dtekv
+flappy bird on Dtekv RISC-V
